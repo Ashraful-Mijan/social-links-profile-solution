@@ -11,6 +11,7 @@ export default function Home() {
             src={userImage}
             alt="user profile image"
             className="rounded-full"
+            placeholder="blur"
           />
         </div>
         <div className="flex flex-col items-center gap-1 mt-3">
